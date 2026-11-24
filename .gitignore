@@ -1,0 +1,9 @@
+.DS_Store
+.build/
+Packages/
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+DerivedData/
+Pomodoro.app
+/tmp/swift-tmp
